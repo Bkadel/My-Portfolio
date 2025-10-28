@@ -39,7 +39,7 @@ export default function About() {
           <div className="grid lg:grid-cols-3 gap-8 lg:gap-12 max-w-6xl mx-auto">
             <div className="lg:col-span-1 flex flex-col items-center">
               <img
-                src="/public/assets/profile-picture.jpg" // Replace with the correct path to your profile picture
+                src="/assets/profile-picture.jpg" 
                 alt="Profile"
                 className="w-48 h-48 rounded-full object-cover" // Increased size from w-32 h-32 to w-48 h-48
               />
